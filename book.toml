@@ -1,0 +1,6 @@
+[book]
+authors = ["mWalrus"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Arch Installation Guide"
