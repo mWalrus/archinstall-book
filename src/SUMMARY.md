@@ -5,7 +5,7 @@
 # Guide
 
 - [Prerequisites](./pre_requisites.md)
-- [Flashing](./flashing.md)
+- [Bootable USB](./bootable_usb.md)
 - [Pre-install Setup](./pre-install_setup.md)
   - [Disk Partitioning](./disk_partitioning.md)
   - [WiFi](./wifi.md)

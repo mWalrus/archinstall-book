@@ -1,4 +1,4 @@
-# Pre requisites
+# Prerequisites
 
 - [Arch ISO](https://archlinux.org/download)
 - Internet connection
